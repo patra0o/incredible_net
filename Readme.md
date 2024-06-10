@@ -67,10 +67,10 @@ You can place your ads anywhere on the site. Just make sure to change the ```cla
 
 ```
  <a class="anchorElement1" href="#" target="_blank">
-        <img class="advertIMG2 img-fluid" src="" alt="">
+        <img class="advertIMG1 img-fluid" src="" alt="">
  </a>
  <a class="anchorElement2" href="#" target="_blank">
-        <img class="advertIMG1 img-fluid" src="" alt="">
+        <img class="advertIMG2 img-fluid" src="" alt="">
  </a>
  <a class="anchorElement3" href="#" target="_blank">
         <img class="advertIMG3 img-fluid" src="" alt="">
